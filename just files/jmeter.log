@@ -1,0 +1,24 @@
+2021-03-15 03:31:04,681 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2021-03-15 03:31:04,701 INFO o.a.j.JMeter: Loading user properties from: /opt/jmeter/apache-jmeter-5.3/bin/user.properties
+2021-03-15 03:31:04,702 INFO o.a.j.JMeter: Loading system properties from: /opt/jmeter/apache-jmeter-5.3/bin/system.properties
+2021-03-15 03:31:04,722 INFO o.a.j.JMeter: Copyright (c) 1998-2020 The Apache Software Foundation
+2021-03-15 03:31:04,723 INFO o.a.j.JMeter: Version 5.3
+2021-03-15 03:31:04,723 INFO o.a.j.JMeter: java.version=1.8.0_282
+2021-03-15 03:31:04,723 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2021-03-15 03:31:04,723 INFO o.a.j.JMeter: os.name=Linux
+2021-03-15 03:31:04,723 INFO o.a.j.JMeter: os.arch=amd64
+2021-03-15 03:31:04,723 INFO o.a.j.JMeter: os.version=4.4.0-1122-aws
+2021-03-15 03:31:04,723 INFO o.a.j.JMeter: file.encoding=UTF-8
+2021-03-15 03:31:04,723 INFO o.a.j.JMeter: java.awt.headless=null
+2021-03-15 03:31:04,723 INFO o.a.j.JMeter: Max memory     =3670540288
+2021-03-15 03:31:04,724 INFO o.a.j.JMeter: Available Processors =4
+2021-03-15 03:31:04,756 INFO o.a.j.JMeter: Default Locale=English (United States)
+2021-03-15 03:31:04,756 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2021-03-15 03:31:04,756 INFO o.a.j.JMeter: JMeterHome=/opt/jmeter/apache-jmeter-5.3
+2021-03-15 03:31:04,756 INFO o.a.j.JMeter: user.dir  =/home/reethacmtecnotr
+2021-03-15 03:31:04,756 INFO o.a.j.JMeter: PWD       =/home/reethacmtecnotr
+2021-03-15 03:31:04,758 INFO o.a.j.JMeter: IP: 172.31.8.189 Name: ip-172-31-8-189 FullName: ip-172-31-8-189.ec2.internal
+2021-03-15 03:31:05,126 INFO o.a.j.JMeter: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2021-03-15 03:31:05,566 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2021-03-15 03:31:09,932 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=linux-45d93e64756ac76133845684742029e3-gui
+2021-03-15 03:31:12,014 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-graphs-additional=2.0, jpgc-csl=0.1, jpgc-casutg=2.9, jpgc-plugins-manager=1.6, jpgc-webdriver=3.3, jmeter-core=5.3, jmeter-ftp=5.3, jmeter-http=5.3, jmeter-jdbc=5.3, jmeter-jms=5.3, jmeter-junit=5.3, jmeter-java=5.3, jmeter-ldap=5.3, jmeter-mail=5.3, jmeter-mongodb=5.3, jmeter-native=5.3, jmeter-tcp=5.3, jmeter-components=5.3]
